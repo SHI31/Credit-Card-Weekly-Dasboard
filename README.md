@@ -23,7 +23,7 @@ This Credit Card Customer Report dashboard provides an insightful analysis of re
 
 Customer and Transaction Insights: Analyzes customer demographics, spending behaviors, and transaction volumes. KPI Monitoring: Tracks essential performance indicators such as transaction trends, payment delinquencies, and customer acquisition. Real-Time Visualizations: Up-to-date data visuals to support strategic decision-making.
 
-📊 Key Insights:
+## 📊 Key Insights:
 ✔ Total Revenue: $55M+ | Total Interest Earned: $8M | Total Income: $576M
 ✔ Gender-Based Revenue Trends: Revenue fluctuations between male & female customers over time
 ✔ Age Group Analysis: Highest revenue from the 30-40 age group
