@@ -1,7 +1,11 @@
-Power BI Dashboard Development & Real-Time Data Analysis 
+Credit_Card_Financial_Dashboard_Power-BI
 
-1. Real-Time Performance Tracking & Insightful Data Visualization.
-2. Dynamic Dashboard Design for Strategic Business Intelligence.
-3. Data-Driven Decision Support through Interactive Reporting.
-4. Automated Reporting & KPI Monitoring using Power BI and SQL.
-5. Customer & Revenue Insights via Advanced Data Visualization.
+The Credit Card Financial Dashboard is designed to provide stakeholders with real-time insights into key performance metrics and trends related to credit card operations. By leveraging data visualization techniques, the dashboard aids in monitoring transaction volumes, revenue performance, customer demographics, and more.
+
+Objective
+To visualize and analyze credit card transaction trends on a weekly basis.
+To track key performance indicators (KPIs) such as total transactions, spending patterns, customer segmentation, and revenue analysis.
+To enhance decision-making by providing real-time insights into credit card usage and operational efficiency.
+
+Dashboard Overview
+1.Credit Card Transaction Report – Tracks spending patterns, transaction volumes, and trends.
