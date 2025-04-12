@@ -11,11 +11,10 @@ This Credit Card Customer Report dashboard provides an insightful analysis of re
 ## Dashboard Overview
 
 1. Credit Card Transaction Report – Tracks spending patterns, transaction volumes, and trends.
+![Credit Card Transaction Report](https://github.com/user-attachments/assets/aba01779-f6f0-4b62-94bd-3622477a2563)
 
-[img alt] [https://github.com/shivanigupta1931/Credit-Card-Weekly-Dasboard/blob/main/Credit%20Card%20Customer%20Report.pdf]
 
-
-2.Credit Card Customer Report – Analyzes customer demographics, spending behavior, and segmentation.
+2. Credit Card Customer Report – Analyzes customer demographics, spending behavior, and segmentation.
 
 ##  Features
 
