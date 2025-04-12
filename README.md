@@ -25,10 +25,15 @@ Customer and Transaction Insights: Analyzes customer demographics, spending beha
 
 ## 📊 Key Insights:
 ✔ Total Revenue: $55M+ | Total Interest Earned: $8M | Total Income: $576M
+
 ✔ Gender-Based Revenue Trends: Revenue fluctuations between male & female customers over time
+
 ✔ Age Group Analysis: Highest revenue from the 30-40 age group
+
 ✔ State-Wise Performance: TX, NY, and CA are the top-performing states
+
 ✔ Customer Job Segmentation: Businessmen and Government employees contribute significantly to total revenue
+
 ✔ Payment Methods Analysis: Usage of Swipe, Online, and Chip-based transactions
 
 ## Technologies Used
